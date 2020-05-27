@@ -758,3 +758,22 @@ a {
   font-size: 16px;
   margin: 4px 8px;
 }
+
+      .sidebar .top-container .site-nav {
+        color: #f2f2f2;
+      }
+    
+      body {
+        background: #262626;
+      }
+    
+      .sidebar{background-image: url(../media/images/custom-sidebarBgImage.jpg);}
+.post-item{border:2px solid #616161;
+border-radius:7px;
+background-color:#fff;
+box-shadow:5px 5px 10px #383838;
+padding:20px 40px;}
+.post-detail{background-color:#fff;
+padding:30px 45px;
+border-radius:5px;}
+    
