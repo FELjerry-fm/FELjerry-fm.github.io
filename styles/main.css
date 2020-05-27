@@ -764,7 +764,7 @@ a {
       }
     
       body {
-        background: #262626;
+        background: #CD853F;
       }
     
       .sidebar{background-image: url(../media/images/custom-sidebarBgImage.jpg);}
@@ -774,6 +774,10 @@ background-color:#fff;
 box-shadow:5px 5px 10px #383838;
 padding:20px 40px;}
 .post-detail{background-color:#fff;
-padding:30px 45px;
-border-radius:5px;}
+padding:45px 120px;
+border-radius:5px;
+min-width:730px;
+max-width:980px;}
+body{background-image:url(https://images.pexels.com/photos/33545/sunrise-phu-quoc-island-ocean.jpg);
+background-size:cover;}
     
